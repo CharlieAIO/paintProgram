@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\c3635783\\source\\repos\\paintProgram\\PaintProgramProject\\PaintProgramProject\\PaintProgramProject.csproj": {}
+    "C:\\Users\\c3635783\\Source\\Repos\\paintProgram\\PaintProgramProject\\PaintProgramProject\\PaintProgramProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\c3635783\\source\\repos\\paintProgram\\PaintProgramProject\\PaintProgramProject\\PaintProgramProject.csproj": {
+    "C:\\Users\\c3635783\\Source\\Repos\\paintProgram\\PaintProgramProject\\PaintProgramProject\\PaintProgramProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\c3635783\\source\\repos\\paintProgram\\PaintProgramProject\\PaintProgramProject\\PaintProgramProject.csproj",
+        "projectUniqueName": "C:\\Users\\c3635783\\Source\\Repos\\paintProgram\\PaintProgramProject\\PaintProgramProject\\PaintProgramProject.csproj",
         "projectName": "PaintProgramProject",
-        "projectPath": "C:\\Users\\c3635783\\source\\repos\\paintProgram\\PaintProgramProject\\PaintProgramProject\\PaintProgramProject.csproj",
+        "projectPath": "C:\\Users\\c3635783\\Source\\Repos\\paintProgram\\PaintProgramProject\\PaintProgramProject\\PaintProgramProject.csproj",
         "packagesPath": "C:\\Users\\c3635783\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\c3635783\\source\\repos\\paintProgram\\PaintProgramProject\\PaintProgramProject\\obj\\",
+        "outputPath": "C:\\Users\\c3635783\\Source\\Repos\\paintProgram\\PaintProgramProject\\PaintProgramProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\c3635783\\AppData\\Roaming\\NuGet\\NuGet.Config",
